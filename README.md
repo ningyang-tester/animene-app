@@ -2,6 +2,14 @@
 
 Welcome to the anime and manga website templates created by EdgeOne Pages! Here, the charm of both anime and manga will be presented to you in the most convenient and personalized way.
 
+## Live Demo
+
+View our deployed versions:
+- [English Version](https://mcp.edgeone.site/share/4zKgx-fDoA56JXpD8Xi4t)
+- [Chinese Version](https://mcp.edgeone.site/share/x82YgKYQ_OpzcNZuCMxKo)
+
+For more deployment information, check the [deployments folder](./deployments).
+
 ## Deploy
 
 [![Deploy with EdgeOne Pages](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://edgeone.ai/pages/new?template=animene)
@@ -14,6 +22,7 @@ More Templates: [EdgeOne Pages](https://edgeone.ai/pages/templates)
 - Ad-free and Pure Enjoyment
 - Highly Customizable Interface
 - Relying on AniList's Abundant Data
+- Multilingual Support (English and Chinese)
 
 ## Technologies used
 
